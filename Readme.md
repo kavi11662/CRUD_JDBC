@@ -1,13 +1,17 @@
-CRUD_JDBC
-🔧 Prerequisites:
-MySQL installed and running.
+# CRUD_JDBC
 
-MySQL JDBC Driver (Connector/J) added to your project.
+# 🔧 Prerequisites:
 
-Java Development Kit (JDK) installed.
+1. MySQL installed and running.
 
-CRUD OPERATION:
-🔧 Features:
+2. MySQL JDBC Driver (Connector/J) added to your project.
+
+3. Java Development Kit (JDK) installed.
+
+# CRUD OPERATION:
+
+# 🔧 Features:
+
 1. Add a new student
 
 2. View all students
